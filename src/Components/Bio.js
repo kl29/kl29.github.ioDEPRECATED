@@ -1,4 +1,5 @@
 import React from "react"
+// import Bio from "./Components/Bio"
 
 function Bio(props) {
     return (
