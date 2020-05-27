@@ -1,8 +1,5 @@
 {
-{
-    “homepage”: “https://kl29.github.io/ 1”,
-    “name”: “kl29.github.io”
-}
+  "homepage": "https://kl29.github.io",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -34,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
